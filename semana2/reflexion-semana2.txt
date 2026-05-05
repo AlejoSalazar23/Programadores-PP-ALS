@@ -1,0 +1,1 @@
+es importente ya que desde la terminal se puede acceder a los contenidos de las carpetas in necesidad de inf¿gresar, esto tambien permite tener mas control de las ubicaciones de nuestros proyectos en nuetra pc y los repositorios que tengamos

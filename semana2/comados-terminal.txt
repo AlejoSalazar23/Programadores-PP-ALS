@@ -1,0 +1,9 @@
+GIT:
+clone
+status
+add
+cd
+ls
+mkdir
+commit 
+push
