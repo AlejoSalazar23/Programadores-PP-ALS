@@ -1,0 +1,5 @@
+Repositorio: es un espacio en la wed que permite guardar proyectos y que se registren los cambios que le hayan realizado a lo largo de su creacion (un historial), tambien permite mantner todo mas organizado y de facil acceso. Los reposistorios son una herramiento de orden.
+
+Commit: Permite agregar contenidos y modificaciones a nuestros repositirios, generando un historial de cambios y adicicones, sin esta funcion nuestros cambios no se registran los cambios.
+
+Push: Permite subir esos cambios realizados a los proyecto, subirlos al repositorio que se haya clonado. 
