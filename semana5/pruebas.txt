@@ -1,0 +1,6 @@
+http://localhost:300
+Esta es la ruta principal de la aplicación. Al acceder a ella, el servidor muestra el mensaje configurado para la página de inicio.
+http://localhost:3000/saludo
+Esta ruta devuelve un saludo definido en el servidor. Sirve para comprobar que Express puede manejar diferentes rutas.
+http://localhost:3000/mensaje/juan
+Esta ruta utiliza un parámetro dinámico. El servidor captura el valor "juan" y lo incluye en la respuesta, mostrando un mensaje personalizado para ese nombre.
