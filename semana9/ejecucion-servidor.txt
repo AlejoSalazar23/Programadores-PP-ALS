@@ -1,0 +1,12 @@
+Qué ocurre cuando ejecutas node server.js.
+al ejecutar el comandose se inicia el servidor web desarrollado con Express, 
+alli sale un mensaje indicando que el servidor esta en funcionamineto "servidor ejecutandose en 
+el puerto 300" 
+
+Qué mensaje aparece en la terminal.
+
+"Servidor activo y funcionando"
+
+Qué sucede cuando visitas la ruta /estado.
+
+{"estado":"Servidor funcionando","servicio":"API comunitaria"}
