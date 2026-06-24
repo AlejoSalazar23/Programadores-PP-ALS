@@ -1,0 +1,6 @@
+uname -a: En el primer comado muestra informacion del sistema operativo y del kernel, donde se puede 
+pobservar el sistema operativo, nombre del equipo, la version, fecha de compilacion, arquitectura
+y plataforma.
+
+
+whoami: El segundo comando cual es el usuario actual del sistema 

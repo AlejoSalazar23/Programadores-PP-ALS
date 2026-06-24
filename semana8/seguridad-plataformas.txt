@@ -1,0 +1,5 @@
+1.Utilizar contraseñas seguras y cambiarlas periódicamente para proteger las cuentas de los usuarios.
+2.Controlar los permisos de acceso, permitiendo que cada usuario solo realice las acciones autorizadas según su rol.
+3.Proteger los datos personales de los usuarios mediante almacenamiento seguro y acceso restringido.
+4.Mantener el sistema actualizado para corregir vulnerabilidades y mejorar la seguridad.
+5.Realizar copias de seguridad periódicas para recuperar la información en caso de fallos, pérdidas o ataques informáticos.
