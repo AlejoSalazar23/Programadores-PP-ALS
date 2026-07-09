@@ -1,0 +1,30 @@
+Modelo básico de datos para una plataforma comunitaria
+
+Entidad: Reporte
+
+Campos principales:
+
+ID del reporte
+Título
+Descripción
+Fecha
+Ubicación
+Estado del reporte
+
+Propósito de la información:
+Almacenar los reportes realizados por la comunidad para hacer seguimiento a las incidencias 
+y facilitar su gestión.
+
+Entidad: Usuario
+
+Campos principales:
+
+ID del usuario
+Nombre
+Correo electrónico
+Teléfono
+Rol (administrador o ciudadano)
+
+Propósito de la información:
+Registrar la información de los usuarios que participan en la plataforma y controlar sus 
+permisos de acceso y participación.
